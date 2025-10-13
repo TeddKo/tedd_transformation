@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tedd_transformation</string>
+    <string name="transform_controller_title">Transform Controller</string>
+    <string name="vertex_coordinates_title">Vertex Coordinates</string>
+    <string name="vertex_left_top">Left-Top</string>
+    <string name="vertex_right_top">Right-Top</string>
+    <string name="vertex_right_bottom">Right-Bottom</string>
+    <string name="vertex_left_bottom">Left-Bottom</string>
+    <string name="label_position">Position (x, y)</string>
+    <string name="label_rotation">Rotation (degrees)</string>
+    <string name="label_pivot">Pivot (x, y)</string>
+    <string name="button_apply">Apply</string>
+</resources>
