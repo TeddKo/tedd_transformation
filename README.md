@@ -2,7 +2,6 @@
 
 ## 문서 목차
 
-- [AI를 사용한 지점과 프롬프트](#ai를-사용한-지점과-프롬프트)
 - [주요 기능](#주요-기능)
 - [빠른 시작](#빠른-시작)
 - [프로젝트 구조](#프로젝트-구조)
@@ -17,13 +16,6 @@
 - [입력 규칙 및 폴백](#입력-규칙-및-폴백-동작)
 - [동작 원리 흐름도](#동작-원리)
 - [MVI 아키텍처](#mvi-아키텍처)
-
-### AI를 사용한 지점과 프롬프트
-
-- **Legacy Canvas의 setMatrix**: JetpackCompose환경일때 setMatrix를 사용하는게 맞는지 알려줘
-- **Android Canvas 좌표**: Android의 Canvas좌표는 원점이 좌상단인데 Global 좌표계의 원점은 좌하단이야 어떻게 변환을 하는게 좋을까?
-- **README.md**: 프로젝트의 구조와 Flow가 다음과 같은데 구조도, Flow를 mermaid를 통해 작성하는 코드를 알려줘 
-- **README.md**: CoordinateSystem, TransformCalculator, CanvasDrawing 의 구현이 이러하고 동작이 이러한데 README.md에 설명 추가해줘.
 
 ### 주요 기능
 
